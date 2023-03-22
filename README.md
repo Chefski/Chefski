@@ -1,5 +1,3 @@
-# Patryk Radziszewski (radish-chef-ski)
+# I am The Chef
 
-Someday I'll make my Chefski/README.md look nice and professional.
-
-Someday...
+![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=patrygo22&unique={true|1|on|yes})
